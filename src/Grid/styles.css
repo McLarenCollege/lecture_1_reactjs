@@ -1,0 +1,14 @@
+
+.grid {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+.grid p {
+    margin-bottom: 32px;
+}
+
+.grid-row{
+    display: flex;
+}
